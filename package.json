@@ -1,0 +1,26 @@
+{
+  "name": "rest-api",
+  "version": "1.0.0",
+  "description": "El mejor curso de Node",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev:4": "nodemon 1.app.js"
+  },
+  "keywords": [
+    "curso",
+    "node",
+    "nodejs"
+  ],
+  "author": "Carlos José Almonte",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "2.8.5",
+    "express": "4.18.2",
+    "picocolors": "^1.0.0",
+    "zod": "3.22.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
