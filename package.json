@@ -4,7 +4,7 @@
   "description": "El mejor curso de Node",
   "main": "index.js",
   "scripts": {
-    "start": "node app.js",
+    "start": "node 1.app.js",
     "dev:4": "nodemon 1.app.js"
   },
   "keywords": [
